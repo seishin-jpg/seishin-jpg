@@ -4,4 +4,4 @@
 </div> <div align="center">
 
 
-  ![GitHub Views](https://komarev.com/ghpvc/?username=seishin-jpg&amp;color=8b6c5c&amp;style=flat&amp;label=💊)
+  ![GitHub Views](https://komarev.com/ghpvc/?username=seishin-jpg&amp;color=8b6c5c&amp;style=flat&amp;label=🗡)
